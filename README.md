@@ -16,7 +16,10 @@ Junior Python Backend Programmer from Indonesia!
     <a href="https://www.facebook.com/pramsopel/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Pram-blue" /></a>
     <a href="https://www.instagram.com/pram.dpb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@pram.dpb_-blue" /></a>
 </p>
+ 
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimbims125&layout=compact)](https://github.com/bimbims125/github-readme-stats)
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/?username=bimbims125&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
 <!--
