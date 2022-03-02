@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Pramdhanni Dwi Putra Bintang!
-Junior Python Backend Programmer from Indonesia!
+Beginner Python Backend Programmer from Indonesia!
 
 ### Languages and Tools:
 
