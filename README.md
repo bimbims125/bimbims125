@@ -7,7 +7,7 @@ Junior Python Backend Developer from Indonesia!
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://logodix.com/logo/1758841.png" />
 <img align="left" alt="FastAPI" width="75px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
-<img align="left" alt="Golang" width="20px" src="https://go.dev/images/go-logo-white.svg" />
+<img align="left" alt="Golang" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" />
 
 <br>
 
