@@ -1,26 +1,24 @@
-### Hi there 👋 , I'm Pramdhanni Dwi Putra Bintang!
-Junior Python Backend Developer from Indonesia!
+<h1 align="center">Hi 👋, I'm Pramdhanni Dwi Putra Bintang</h1>
+<h3 align="center">A passionate Backend Developer from Indonesia!</h3>
 
-### Tech Stack:
+- 🌱 I’m currently learning **Golang, PostgreSQL, Payment Gateway Implementation**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://logodix.com/logo/1758841.png" />
-<img align="left" alt="FastAPI" width="75px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
-<img align="left" alt="Golang" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" />
+- 📫 How to reach me **pramdpb@gmail.com**
 
-<br>
+- ⚡ Fun fact **I'm funny person**
 
-### Let's connect with me!
-<p>
-    <a href="https://www.facebook.com/pramsopel/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Pram-blue" /></a>
-    <a href="https://www.instagram.com/pram.dpb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@pram.dpb_-blue" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pramdhanni-dwi-putra-bintang-63a768227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramdhanni-dwi-putra-bintang-63a768227" height="30" width="40" /></a>
+<a href="https://instagram.com/pram.dpb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pram.dpb" height="30" width="40" /></a>
 </p>
- 
 
-  ## GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bimbims125&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for bimbims125" width="600"><img src="https://github-readme-streak-stats.herokuapp.com?user=bimbims125&theme=jolly" width="600"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimbims125&show_icons=true&locale=en&layout=compact" alt="bimbims125" /></p>
 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimbims125&show_icons=true&locale=en" alt="bimbims125" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimbims125&" alt="bimbims125" /></p>
+
