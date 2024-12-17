@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramdhanni Dwi Putra Bintang</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia!</h3>
 
-- 🌱 I’m currently learning **Golang, PostgreSQL, Payment Gateway Implementation**
+- 🌱 I’m currently learning **Golang, PostgreSQL, Payment Gateway Integration**
 
 - 📫 How to reach me **pramdpb@gmail.com**
 
